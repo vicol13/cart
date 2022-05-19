@@ -1,0 +1,419 @@
+
+
+================================================================
+        DecisionForest with  NT[1] F[2]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   90.26 |
+| accuracy          |   90.04 |
+| f1                |   90.17 |
+| precision         |   90.58 |
+| recall            |   90.04 |
+================================================================
+{'Clump Thickness': 0.5789473684210527, 'Uniformity of Cell Size': 0.42105263157894735}
+
+
+
+================================================================
+        DecisionForest with  NT[1] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   91.23 |
+| accuracy          |   92.21 |
+| f1                |   92.21 |
+| precision         |   92.21 |
+| recall            |   92.21 |
+================================================================
+{'Uniformity of Cell Shape': 0.125, 'Uniformity of Cell Size': 0.4583333333333333, 'Clump Thickness': 0.4166666666666667}
+
+
+
+================================================================
+        DecisionForest with  NT[1] F[6]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   92.86 |
+| accuracy          |   94.37 |
+| f1                |   94.32 |
+| precision         |   94.37 |
+| recall            |   94.37 |
+================================================================
+{'Marginal Adhesion': 0.09523809523809523, 'Bare Nuclei': 0.5714285714285714, 'Clump Thickness': 0.047619047619047616, 'Uniformity of Cell Size': 0.14285714285714285, 'Uniformity of Cell Shape': 0.14285714285714285}
+
+
+
+================================================================
+        DecisionForest with  NT[1] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   95.13 |
+| accuracy          |   96.1  |
+| f1                |   96.08 |
+| precision         |   96.1  |
+| recall            |   96.1  |
+================================================================
+{'Uniformity of Cell Size': 0.2, 'Uniformity of Cell Shape': 0.32, 'Marginal Adhesion': 0.28, 'Clump Thickness': 0.2}
+
+
+
+================================================================
+        DecisionForest with  NT[10] F[2]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   92.86 |
+| accuracy          |   94.37 |
+| f1                |   94.32 |
+| precision         |   94.37 |
+| recall            |   94.37 |
+================================================================
+{'Uniformity of Cell Size': 0.5153846153846153, 'Clump Thickness': 0.4846153846153846}
+
+
+
+================================================================
+        DecisionForest with  NT[10] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   92.86 |
+| accuracy          |   93.51 |
+| f1                |   93.52 |
+| precision         |   93.53 |
+| recall            |   93.51 |
+================================================================
+{'Clump Thickness': 0.4, 'Uniformity of Cell Size': 0.31851851851851853, 'Uniformity of Cell Shape': 0.2814814814814815}
+
+
+
+================================================================
+        DecisionForest with  NT[10] F[6]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   91.23 |
+| accuracy          |   92.21 |
+| f1                |   92.21 |
+| precision         |   92.21 |
+| recall            |   92.21 |
+================================================================
+{'Marginal Adhesion': 0.14583333333333334, 'Clump Thickness': 0.275, 'Single Epithelial Cell Size': 0.13333333333333333, 'Uniformity of Cell Size': 0.175, 'Bare Nuclei': 0.14583333333333334, 'Uniformity of Cell Shape': 0.125}
+
+
+
+================================================================
+        DecisionForest with  NT[10] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   92.86 |
+| accuracy          |   93.94 |
+| f1                |   93.92 |
+| precision         |   93.91 |
+| recall            |   93.94 |
+================================================================
+{'Uniformity of Cell Shape': 0.24782608695652175, 'Clump Thickness': 0.2956521739130435, 'Uniformity of Cell Size': 0.26521739130434785, 'Marginal Adhesion': 0.19130434782608696}
+
+
+
+================================================================
+        DecisionForest with  NT[25] F[2]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   87.01 |
+| accuracy          |   89.18 |
+| f1                |   89.08 |
+| precision         |   89.08 |
+| recall            |   89.18 |
+================================================================
+{'Clump Thickness': 0.4962962962962963, 'Uniformity of Cell Size': 0.5037037037037037}
+
+
+
+================================================================
+        DecisionForest with  NT[25] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   93.51 |
+| accuracy          |   93.07 |
+| f1                |   93.15 |
+| precision         |   93.47 |
+| recall            |   93.07 |
+================================================================
+{'Uniformity of Cell Size': 0.3504, 'Clump Thickness': 0.3376, 'Uniformity of Cell Shape': 0.312}
+
+
+
+================================================================
+        DecisionForest with  NT[25] F[6]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   92.53 |
+| accuracy          |   92.64 |
+| f1                |   92.7  |
+| precision         |   92.84 |
+| recall            |   92.64 |
+================================================================
+{'Single Epithelial Cell Size': 0.1575, 'Bare Nuclei': 0.16, 'Marginal Adhesion': 0.1625, 'Clump Thickness': 0.22, 'Uniformity of Cell Shape': 0.1775, 'Uniformity of Cell Size': 0.1225}
+
+
+
+================================================================
+        DecisionForest with  NT[25] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   94.81 |
+| accuracy          |   95.24 |
+| f1                |   95.25 |
+| precision         |   95.26 |
+| recall            |   95.24 |
+================================================================
+{'Marginal Adhesion': 0.21666666666666667, 'Clump Thickness': 0.32666666666666666, 'Uniformity of Cell Size': 0.23166666666666666, 'Uniformity of Cell Shape': 0.225}
+
+
+
+================================================================
+        DecisionForest with  NT[50] F[2]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   89.61 |
+| accuracy          |   91.34 |
+| f1                |   91.28 |
+| precision         |   91.28 |
+| recall            |   91.34 |
+================================================================
+{'Uniformity of Cell Size': 0.4991304347826087, 'Clump Thickness': 0.5008695652173913}
+
+
+
+================================================================
+        DecisionForest with  NT[50] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   91.56 |
+| accuracy          |   91.77 |
+| f1                |   91.84 |
+| precision         |   91.99 |
+| recall            |   91.77 |
+================================================================
+{'Uniformity of Cell Shape': 0.29586206896551726, 'Clump Thickness': 0.3593103448275862, 'Uniformity of Cell Size': 0.3448275862068966}
+
+
+
+================================================================
+        DecisionForest with  NT[50] F[6]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   93.51 |
+| accuracy          |   93.94 |
+| f1                |   93.96 |
+| precision         |   93.99 |
+| recall            |   93.94 |
+================================================================
+{'Clump Thickness': 0.21888888888888888, 'Uniformity of Cell Size': 0.20222222222222222, 'Single Epithelial Cell Size': 0.13555555555555557, 'Marginal Adhesion': 0.15888888888888889, 'Bare Nuclei': 0.13666666666666666, 'Uniformity of Cell Shape': 0.14777777777777779}
+
+
+
+================================================================
+        DecisionForest with  NT[50] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   90.91 |
+| accuracy          |   93.51 |
+| f1                |   93.37 |
+| precision         |   93.74 |
+| recall            |   93.51 |
+================================================================
+{'Uniformity of Cell Shape': 0.27185185185185184, 'Uniformity of Cell Size': 0.2614814814814815, 'Clump Thickness': 0.2659259259259259, 'Marginal Adhesion': 0.20074074074074075}
+
+
+
+================================================================
+        RandomForest with  NT[1] F[1]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   87.34 |
+| accuracy          |   89.18 |
+| f1                |   89.12 |
+| precision         |   89.1  |
+| recall            |   89.18 |
+================================================================
+{'Clump Thickness': 1.0}
+
+
+
+================================================================
+        RandomForest with  NT[1] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   92.53 |
+| accuracy          |   94.37 |
+| f1                |   94.3  |
+| precision         |   94.43 |
+| recall            |   94.37 |
+================================================================
+{'Uniformity of Cell Shape': 0.3333333333333333, 'Clump Thickness': 0.3939393939393939, 'Uniformity of Cell Size': 0.2727272727272727}
+
+
+
+================================================================
+        RandomForest with  NT[1] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   89.94 |
+| accuracy          |   90.04 |
+| f1                |   90.14 |
+| precision         |   90.42 |
+| recall            |   90.04 |
+================================================================
+{'Uniformity of Cell Shape': 0.17647058823529413, 'Uniformity of Cell Size': 0.17647058823529413, 'Clump Thickness': 0.4117647058823529, 'Marginal Adhesion': 0.23529411764705882}
+
+
+
+================================================================
+        RandomForest with  NT[1] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   93.18 |
+| accuracy          |   94.37 |
+| f1                |   94.34 |
+| precision         |   94.35 |
+| recall            |   94.37 |
+================================================================
+{'Uniformity of Cell Shape': 0.48148148148148145, 'Clump Thickness': 0.2222222222222222, 'Uniformity of Cell Size': 0.2962962962962963}
+
+
+
+================================================================
+        RandomForest with  NT[10] F[1]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   93.51 |
+| accuracy          |   94.81 |
+| f1                |   94.77 |
+| precision         |   94.8  |
+| recall            |   94.81 |
+================================================================
+{'Clump Thickness': 1.0}
+
+
+
+================================================================
+        RandomForest with  NT[10] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   93.51 |
+| accuracy          |   94.81 |
+| f1                |   94.77 |
+| precision         |   94.8  |
+| recall            |   94.81 |
+================================================================
+{'Uniformity of Cell Shape': 0.3305785123966942, 'Uniformity of Cell Size': 0.34710743801652894, 'Clump Thickness': 0.32231404958677684}
+
+
+
+================================================================
+        RandomForest with  NT[10] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   97.08 |
+| accuracy          |   96.97 |
+| f1                |   96.98 |
+| precision         |   97.03 |
+| recall            |   96.97 |
+================================================================
+{'Clump Thickness': 0.26778242677824265, 'Uniformity of Cell Shape': 0.2217573221757322, 'Uniformity of Cell Size': 0.26359832635983266, 'Marginal Adhesion': 0.24686192468619247}
+
+
+
+================================================================
+        RandomForest with  NT[10] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   95.45 |
+| accuracy          |   95.67 |
+| f1                |   95.68 |
+| precision         |   95.71 |
+| recall            |   95.67 |
+================================================================
+{'Uniformity of Cell Shape': 0.3038461538461538, 'Clump Thickness': 0.39615384615384613, 'Uniformity of Cell Size': 0.3}
+
+
+
+================================================================
+        RandomForest with  NT[25] F[1]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   97.73 |
+| accuracy          |   97.84 |
+| f1                |   97.84 |
+| precision         |   97.85 |
+| recall            |   97.84 |
+================================================================
+{'Clump Thickness': 1.0}
+
+
+
+================================================================
+        RandomForest with  NT[25] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   98.38 |
+| accuracy          |   98.27 |
+| f1                |   98.27 |
+| precision         |   98.3  |
+| recall            |   98.27 |
+================================================================
+{'Uniformity of Cell Shape': 0.33070866141732286, 'Clump Thickness': 0.3480314960629921, 'Uniformity of Cell Size': 0.32125984251968503}
+
+
+
+================================================================
+        RandomForest with  NT[25] F[4]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   97.73 |
+| accuracy          |   97.84 |
+| f1                |   97.84 |
+| precision         |   97.85 |
+| recall            |   97.84 |
+================================================================
+{'Uniformity of Cell Size': 0.23877917414721722, 'Marginal Adhesion': 0.21723518850987433, 'Clump Thickness': 0.2639138240574506, 'Uniformity of Cell Shape': 0.2800718132854578}
+
+
+
+================================================================
+        RandomForest with  NT[25] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   98.05 |
+| accuracy          |   97.84 |
+| f1                |   97.85 |
+| precision         |   97.89 |
+| recall            |   97.84 |
+================================================================
+{'Clump Thickness': 0.29720853858784896, 'Uniformity of Cell Size': 0.3825944170771757, 'Uniformity of Cell Shape': 0.32019704433497537}
+
+
+
+================================================================
+        RandomForest with  NT[50] F[1]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   97.4  |
+| accuracy          |   97.4  |
+| f1                |   97.41 |
+| precision         |   97.44 |
+| recall            |   97.4  |
+================================================================
+{'Clump Thickness': 1.0}
+
+
+
+================================================================
+        RandomForest with  NT[50] F[3]
+| Metric            |   Score |
+|-------------------+---------|
+| balanced accuracy |   98.38 |
+| accuracy          |   98.27 |
+| f1                |   98.27 |
+| precision         |   98.3  |
+| recall            |   98.27 |
+================================================================
+{'Uniformity of Cell Size': 0.3137404580152672, 'Clump Thickness': 0.3656488549618321, 'Uniformity of Cell Shape': 0.32061068702290074}
